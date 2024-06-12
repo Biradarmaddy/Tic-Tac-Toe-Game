@@ -1,0 +1,1 @@
+Tic-Tac-Toe is a classic two-player game where the goal is to form a straight line of three of your own marks (either X or O) on a 3x3 grid. Players take turns placing their marks in empty squares, aiming to create a row, column, or diagonal of three before their opponent does. It's a quick, strategic game of pattern recognition and planning.
